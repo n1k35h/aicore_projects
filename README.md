@@ -1,7 +1,7 @@
 # AiCore Projects
 This repository is a collection of AiCore projects that was created as a part of the Data Engineering course offered by AiCore, during which multiple certifications were obtained for each completed project.
 
-- [Hangman game](hangman/) - This project was the first part of the Data Engineering course and Python was used to produce the hangman game along with random module
+- [Hangman game](Hangman/milestone_5.py) - This project was the first part of the Data Engineering course and Python was used to produce the hangman game along with random module
 
 - [Computer Vision Rock Paper and Scissor game](computer-vision-rock-paper-scissors/) - This project was the second part of the Data Engineering course and in this course it involved using camera to capture the user hand movement and tools and module that were used as follows:
     - Python
