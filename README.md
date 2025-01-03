@@ -3,7 +3,7 @@ This repository is a collection of AiCore projects that was created as a part of
 
 - [Hangman game](Hangman/milestone_5.py) - This project was the first part of the Data Engineering course and Python was used to produce the hangman game along with random module
 
-- [Computer Vision Rock Paper and Scissor game](computer-vision-rock-paper-scissors/camera_rps.py) - This project was the second part of the Data Engineering course and in this course it involved using camera to capture the user hand movement and tools and module that were used as follows:
+- [Computer Vision Rock Paper and Scissor game](computer_vision_rock_paper_scissors/camera_rps.py) - This project was the second part of the Data Engineering course and in this course it involved using camera to capture the user hand movement and tools and module that were used as follows:
     - Python
     - opencv
     - tensorflow
