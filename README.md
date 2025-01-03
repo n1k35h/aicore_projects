@@ -12,7 +12,7 @@ This repository is a collection of AiCore projects that was created as a part of
     - random module
     - keras.models module
 
-- [Multinational Retail Data Centralisation](multinational-retail-data-centralisation/README.md) - This project was the third part of the Data Engineering course and in this course it involved using ETL skill (Extract, Transform & Load). Extracting the data from various data soruces, transforming the data by cleaning and removing unwanted data, and load to .csv file to visualise the data output. Tools that were used for this projects are as follows:
+- [Multinational Retail Data Centralisation](multinational_retail_data_centralisation/README.md) - This project was the third part of the Data Engineering course and in this course it involved using ETL skill (Extract, Transform & Load). Extracting the data from various data soruces, transforming the data by cleaning and removing unwanted data, and load to .csv file to visualise the data output. Tools that were used for this projects are as follows:
     - Python
     - .yaml
     - sqlalchemy module
@@ -27,7 +27,7 @@ This repository is a collection of AiCore projects that was created as a part of
     - .csv
     - aws (s3 bucket & api)
 
-- [Pinterest Data Pipeline](pinterest-data-pipeline/README.md) - This was the final project of the Data Engineering course and in this course all the tools and skills that was gained from this course were used for this final project. 
+- [Pinterest Data Pipeline](pinterest_data_pipeline/README.md) - This was the final project of the Data Engineering course and in this course all the tools and skills that was gained from this course were used for this final project. 
     - Python
     - .yaml
     - Pipeline (ETL) 
